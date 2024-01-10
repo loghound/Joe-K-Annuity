@@ -6,12 +6,12 @@ what is missed, I think, is annuities can be useful as a replacement for bonds i
 
 It's sort of easy to show this using the fantastic https://ficalc.app  You can run pretty easily run scenarios and see how it would have done historically.
 
-* Assuming the retiree has:
+Assuming the retiree has:
 * $1M in total assets
 * $40k/yr withdraw rate (Inflation adjusted)
 * Annuities pay 6% (Joe's Rate)
 * 30 year expected retirement
-* Nominally 60/40 portflio 
+* Nominally 60/40 portfolio (i do a 80/20 also) 
 * SPIA (single premium immediate annuity) -- this is the most simple product where you give the insurance company money and then they invest it and give it back to you for life.  
 
 As I said it's easy to compare how a retiree would do with and with an annuity 
