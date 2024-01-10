@@ -35,6 +35,9 @@ In this case we had a slighly worse success rate (but we never really fail with 
 
 Everyone situation is different so you really need to assess for youself (including things like Social Security) but every time I play with this I end up with results like above.  Annuities provide lower risk and greater (long term) returns as long as you are willing to use them as a bond replacement and you think you'll live "long enough"
 
+Ultimately you have to decide what you are comfortable with and not everyone is comfortable with this idea (honestly I retire in 3 weeks at the age of 59 and I'm still sort of on the fence even though when I run the numbers it looks attractive) but my main point is it's worth at least a serious look before you wave your hands and say 'annuities bad'
+
+
 ## What can go wrong?
 
 * Insurance companies can go out of business (so either get multiple annuities to spread risk and buy from highly rated companies)
