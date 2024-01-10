@@ -33,11 +33,11 @@ Link | Success Rate | $ in Stocks |  $ in Bonds | Stock/Bond % | Annuity Invesme
 
 In this case we had a slighly worse success rate (but we never really fail with the annuity as we always get **some** money) but we once again ended up with a higher mean & median portfolio balance
 
-Everyone situation is different so you really need to assess for youself (including things like Social Security) but every time I play with this I end up with results like above.  Annuities provide lower risk and greater (long term) returns as long as you are willing to use them as a bond replacement.
+Everyone situation is different so you really need to assess for youself (including things like Social Security) but every time I play with this I end up with results like above.  Annuities provide lower risk and greater (long term) returns as long as you are willing to use them as a bond replacement and you think you'll live "long enough"
 
 ## What can go wrong?
 
 * Insurance companies can go out of business (so either get multiple annuities to spread risk and buy from highly rated companies)
 * You may die early -- this doesn't matter to you so much at that point but your heirs might end up with 'less' money then they otherwise would have. (nb the breakeven on this strategy in terms of legacy seems to be 15-20 years)
-* Probably other things that I can't think of right now -- like any financial decision it has risks (but also doing nothing has risk so.....)
+* Probably other things that I can't think of right now -- like any financial decision it has risks (but also doing nothing has risk, so.....)
 
