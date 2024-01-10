@@ -39,5 +39,7 @@ Everyone situation is different so you really need to assess for youself (includ
 
 * Insurance companies can go out of business (so either get multiple annuities to spread risk and buy from highly rated companies)
 * You may die early -- this doesn't matter to you so much at that point but your heirs might end up with 'less' money then they otherwise would have. (nb the breakeven on this strategy in terms of legacy seems to be 15-20 years)
+* Ficalc.app may be have a problem with it's math -- I've checked it a bunch of times against other tools and it works really well in my experience but perhaps?
+* The future may be significantly different than the past (duh?) - ficalc useses historical data so all it can tell you how you **would** have done. Not have you **will* do. This is a hard thing to plan for however since, you know, "who knows" what the future holds. 
 * Probably other things that I can't think of right now -- like any financial decision it has risks (but also doing nothing has risk, so.....)
 
