@@ -22,7 +22,7 @@ Link | Success Rate | $ in Stocks |  $ in Bonds | Stock/Bond % | Annuity Invesme
 [With Annuity](https://ficalc.app?additionalIncome=%5B%7B%22name%22%3A%22Annuity%22%2C%22value%22%3A12000%2C%22inflationAdjusted%22%3Afalse%2C%22delayInflation%22%3Afalse%2C%22lastsForever%22%3Atrue%2C%22duration%22%3A1%2C%22startYearNumber%22%3A0%2C%22disabled%22%3Afalse%7D%5D&additionalWithdrawals=%5B%5D&annualWithdrawal=40000&bondsFees=0.05&bondsFinalRatio=15&bondsInitialRatio=25&cashFees=0&cashFinalRatio=5&cashGrowth=1.5&cashInitialRatio=0&changeAllocationsOverTime=false&equitiesFees=0.04&equitiesFinalRatio=80&equitiesInitialRatio=75&inflationAdjustedFirstYearWithdrawal=true&initialPortfolioValue=800000&maxWithdrawalLimit=60000&maxWithdrawalLimitEnabled=false&minWithdrawalLimit=20000&minWithdrawalLimitEnabled=true&numberOfYears=30&portfolioRebalanceEquation=linear&rebalance=true&rebalanceFrequency=1&retirementStartingAge=60&withdrawalStrategyName=constantDollar) | 96.7% | $600k | $200k | 75/25 | $200k | $12k | $1,775,329 | $2,086,130 |
 
 
-So we had less risk (the annuity plan never failed) and we ended up with more money 
+So we had less risk (even in the few scenarios where we 'ran out of money' the annuity continued to pay out) and we ended up with more money in the median and mean cases.
 
 You may think that I've gamed this to show the annuity to it's advantage but feel free to try different numbers.  Here is an example with a retiree who likes a 80/20 portfolio
 
