@@ -40,6 +40,7 @@ Ultimately you have to decide what you are comfortable with and not everyone is 
 
 ## What can go wrong?
 
+* this analysis doesn't include any tax implications.  There might be reasons (like roth conversations) where a lump sum starts making more sense (this is highly dependent on your individual situation)
 * Insurance companies can go out of business (so either get multiple annuities to spread risk and buy from highly rated companies)
 * You may die early -- this doesn't matter to you so much at that point but your heirs might end up with 'less' money then they otherwise would have. (nb the breakeven on this strategy in terms of legacy seems to be 15-20 years)
 * Ficalc.app may be have a problem with it's math -- I've checked it a bunch of times against other tools and it works really well in my experience but perhaps?
